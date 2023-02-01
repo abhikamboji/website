@@ -19,6 +19,6 @@
   },
   "dependencies": {
     "dotenv": "^8.2.0",
-    "mongoose": "^5.10.7"
+    "mongoose": "^5.13.15"
   }
 }
